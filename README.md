@@ -3,6 +3,6 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Configuring Active Directory Using Windows Server 2022 & Windows 10 Pro</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Active Directory: Windows Server 2022 Setup](https://github.com/ismamrafidahmed/server2022-setup)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)

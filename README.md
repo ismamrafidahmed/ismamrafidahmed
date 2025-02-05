@@ -6,3 +6,4 @@
   - [Windows Server 2022 Setup](https://github.com/ismamrafidahmed/server2022-setup)
   - [Active Directory, RAS/NAT, DHCP, Domain Users/Admins Installation & Setup](https://github.com/ismamrafidahmed/active-directory-ras-dhcp-setup/tree/main)
   - [Windows 10 Pro Setup](https://github.com/ismamrafidahmed/windows-10-pro-setup/tree/main)
+  - [Group Policy Configuration](https://github.com/ismamrafidahmed/group-policy-configuration)

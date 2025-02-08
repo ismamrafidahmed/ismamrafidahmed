@@ -10,4 +10,4 @@
 
 - <b>Connecting to a VPN Server within an Azure Virtual Machine</b>
   - [Azure VM Setup](https://github.com/ismamrafidahmed/vpn-lab)
-  - [ProtonVPN Setup]()
+  - [ProtonVPN Setup](https://github.com/ismamrafidahmed/vpn-lab)

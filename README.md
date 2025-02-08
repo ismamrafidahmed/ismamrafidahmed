@@ -9,5 +9,5 @@
   - [Group Policy Configuration](https://github.com/ismamrafidahmed/group-policy-configuration)
 
 - <b>Connecting to a VPN Server within an Azure Virtual Machine</b>
-  - [Azure VM Setup]()
+  - [Azure VM Setup](https://github.com/ismamrafidahmed/vpn-lab)
   - [ProtonVPN Setup]()

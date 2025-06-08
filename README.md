@@ -7,6 +7,7 @@
   - [Active Directory, RAS/NAT, DHCP, Domain Users/Admins Installation & Setup](https://github.com/ismamrafidahmed/active-directory-ras-dhcp-setup/tree/main)
   - [Windows 10 Pro Setup](https://github.com/ismamrafidahmed/windows-10-pro-setup/tree/main)
   - [Group Policy Configuration](https://github.com/ismamrafidahmed/group-policy-configuration)
+  - [Network File Shares and Permissions](https://github.com/ismamrafidahmed/Network-File-Shares-Permissions)
 
 - <b>Connecting to a VPN Server within an Azure Virtual Machine</b>
   - [Azure VM Setup](https://github.com/ismamrafidahmed/vpn-lab)
